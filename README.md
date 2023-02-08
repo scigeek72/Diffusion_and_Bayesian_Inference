@@ -1,6 +1,9 @@
 ## Diffusion_and_Bayesian_Inference
 This repo contains information regarding Diffusion Models and Bayesian Statistics
 
+A list of references are avialable in this github [repo](https://github.com/heejkoo/Awesome-Diffusion-Models#introductory-posts). 
+- Note: Check out the section on **Introductory Posts**
+
 ## Books
 - [Bayesian Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by Alicia Johnson et.al
 
